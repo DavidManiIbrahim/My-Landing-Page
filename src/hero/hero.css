@@ -1,0 +1,24 @@
+.hero{
+    /* background-color: aqua; */
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    /* margin-right: 30px; */
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+    /* float: right; */
+    width: 100%;
+    height: 60vh;
+}
+.left{
+    /* border: 1px solid; */
+    height: 60vh;
+    width: 48%;
+}
+.right{
+    /* border: 1px solid; */
+    height: 60vh;
+    width: 50%;
+}

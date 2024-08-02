@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headerbar{
+    text-align: center;
+    justify-content: center;
+    border: 1px solid;
+    background-color: blueviolet;
+    color: aliceblue;
+    height: 8vh;
+    width: 100%;
+}
+nav{
+    margin-top: 15px;
+    font-size: large;
+}
+a{
+
+   margin-left: 25px;
+   text-align: center;
+    color: #fff;
+    text-decoration: none;
+    padding-top: 10px;
+}

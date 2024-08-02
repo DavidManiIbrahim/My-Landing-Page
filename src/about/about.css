@@ -1,0 +1,10 @@
+.about{
+    background-image: url(../../asset/image/Easter\ Spectacular.jpg);
+    height: 50vh;
+    width: 100%;
+    color: #fff;
+    border: 1px solid;
+}
+.abttxt{
+    text-align: center;
+}
